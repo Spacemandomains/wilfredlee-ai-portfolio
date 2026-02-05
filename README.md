@@ -66,7 +66,7 @@ Documenting the journey of building startups as an AI Solopreneur.
 ## 🌐 Website
 
 Official site:  
-https://wilfredlee.ai  
+https://wilfredleeai.netlify.app 
 (or your deployed Netlify domain)
 
 ---
