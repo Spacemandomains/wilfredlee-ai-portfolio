@@ -8,7 +8,7 @@ const realProjects = [
     tagline: "AI-powered copywriting for startups and founders",
     description: "Professional AI copywriting that helps you create compelling marketing content, landing pages, and sales copy in minutes.",
     imageUrl: null,
-    productHuntUrl: "https://www.producthunt.com/products/the-copy-agency",
+    productHuntUrl: "https://www.producthunt.com/products/write-startup-copy-in-minutes?launch=write-startup-copy-in-minutes",
     websiteUrl: "https://thecopyagency.replit.app/",
     stripeProductId: "prod_TtUZxA8pNmQQRN",
     category: "AI Writing",

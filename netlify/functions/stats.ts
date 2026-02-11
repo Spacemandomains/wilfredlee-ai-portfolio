@@ -9,7 +9,7 @@ interface Project {
 const projects: Project[] = [
   {
     stripeProductId: "prod_TtUZxA8pNmQQRN",
-    productHuntUrl: "https://www.producthunt.com/products/the-copy-agency",
+    productHuntUrl: "https://www.producthunt.com/products/write-startup-copy-in-minutes?launch=write-startup-copy-in-minutes",
   }
 ];
 
